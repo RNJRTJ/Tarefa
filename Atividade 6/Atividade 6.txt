@@ -1,0 +1,57 @@
+
+nomeSobrenome -> CORRETO
+
+_contador -> CORRETO
+
+alfa_beta_rotina -> CORRETO
+
+número2 -> INCORRETO, contém acento na frase e isso não é aceito, pois pode gerar erro no código.
+
+variavel -> CORRETO
+
+x -> CORRETO
+
+%dividir -> INCORRETO, pois contém um caractere invalido no começo da declaração
+
+1numero  -> INCORRETO, número não é aceito na frente da declaração
+
+_texto_ -> CORRETO,
+
+6_05 _1312 -> INCORRETO, número não é aceito na frente da declaração, e espaços 
+entre o nome também
+
+_var1 -> CORRETO
+
+Reinicializa -> CORRETO
+
+Xs -> CORRETO
+
+A$ -> INCORRETO, caracter invalido
+
+teclado_lidinho -> CORRETO
+
+Germa66 -> CORRETO
+
+1º_lugar -> INCORRETO, número não é aceito na frente da declaração
+
+PlayerID -> CORRETO
+
+tempo e hora -> INCORRETO, tem espaço entre a declaração e isso não é permitido
+
+km/h -> INCORRETO, barra
+
+raio.circulo -> INCORRETO, não se pode fazer separação de frases com (.) 
+
+cont -> CORRETO
+
+d’agua -> INCORRETO, aspas é contada como parte de um comando em js
+
+primeiro -> CORRETO
+
+TesteUm -> CORRETO
+
+2dias -> INCORRETO, número não é aceito na frente da declaração
+
+$dolar -> INCORRETO, contém um caracter invalido 
+
+teste 1 -> INCORRETO, número separado pelo espaço conta como erro

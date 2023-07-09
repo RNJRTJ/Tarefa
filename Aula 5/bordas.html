@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bordas</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+
+            align-items: center;
+            justify-content: center;
+
+            height: 100vh; /*viewrport height*/
+        }
+        .border {
+            border: 2px blue solid;
+        }
+        .borderDashed {
+            border: 2px red dashed;
+        }
+        .borderDotted {
+            border: 2px green dotted;
+        }
+        .borderDouble {
+            border: red double;
+            margin-bottom: 50px;
+        }
+        .borderOutset {
+            border: 2px green outset;
+        }
+        .borderInset {
+            border: 2px gray inset;
+        }
+        
+        .borderGroove {
+            border: 10px green groove;
+            border-radius: 5px;
+        }
+
+        .borderRidge {
+            border: 10px cyan ridge;
+            border-radius: 10px;
+        }
+        p {
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <p class="border">Exemplos de borda simples</p>
+    <p class="borderDashed">Exemplos de borda com Dashed</p>
+    <p class="borderDotted">Exemplos de borda com Dotted</p>
+    <p class="borderGroove">Exemplos de borda com Groove</p>
+    <p class="borderRidge">Exemplos de borda com Ridge</p>
+    <p class="borderDouble">Exemplos de borda com Double</p>
+
+    <p class="borderOutset">Exemplos de borda com Outset</p>
+    <p class="borderInset">Exemplos de borda com Inset</p>
+    
+</body>
+</html>

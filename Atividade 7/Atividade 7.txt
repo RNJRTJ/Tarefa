@@ -1,0 +1,9 @@
+Para treinar o conhecimento adquirido em nossa aula, crie um formulário de cadastro sobre o tema de sua escolha (livros, séries, produtos, receitas, etc), com no mínimo 3 itens de cadastramento. E a cada novo cadastramento, exiba o conteúdo em uma lista.
+
+Exemplo:
+Vou criar um formulário de cadastramento de cachorros para consultar em uma PetShop. O formulário precisará ter os seguintes campos:
+Nome do Cachorro
+Nome do Dono
+Telefone para contato
+Dia do agendamento
+ENTREGA: Me envie os arquivos que compõem o seu formulário. Arquivos como; index.html, styles.css e script.js. O envio também pode ser feito por meio do link de um repositório no github (ou diretamente em anexar na atividade).
